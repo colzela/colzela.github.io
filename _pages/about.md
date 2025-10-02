@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Haokun Zhao, a second-year M.S. student at UC San Diego. Previously, I obtained my bachelor’s degree from The Chinese University of Hong Kong, Shenzhen, where I was fortunate to be advised by Prof. [Jicong Fan](https://jicongfan.github.io). During Summer 2025, I was a research intern at Stony Brook University, where I collaborate with Prof. [Chenyu You](https://chenyuyou.me).
+Hi! I'm Haokun Zhao, a second-year M.S. student at UC San Diego. Previously, I obtained my bachelor’s degree from The Chinese University of Hong Kong, Shenzhen, where I was fortunate to be advised by Prof. [Jicong Fan](https://jicongfan.github.io). During Summer 2025, I was a research intern at Stony Brook University, where I collaborated with Prof. [Chenyu You](https://chenyuyou.me).
 
 My research interests foucus on LLMs and machine learning for health.
 
