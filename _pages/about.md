@@ -37,7 +37,7 @@ series forecasting.
 
 [TimeSeriesScientist: A General-Purpose AI Agent for Time Series Analysis]()
 
-**Haokun Zhao†**, Xiang Zhang†, Jiaqi Wei†, Yiwei Xu, Yuting He, Siqi Sun, Chenyu You
+**<u>Haokun Zhao†</u>**, Xiang Zhang†, Jiaqi Wei†, Yiwei Xu, Yuting He, Siqi Sun, Chenyu You
 
 [**Project**](https://y-research-sbu.github.io/TimeSeriesScientist/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The first LLM-driven agentic framework for general time series forecasting. 
