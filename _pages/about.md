@@ -35,7 +35,7 @@ series forecasting.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TimeSeriesScientist: A General-Purpose AI Agent for Time Series Analysis]()
+[TimeSeriesScientist: A General-Purpose AI Agent for Time Series Analysis](https://arxiv.org/abs/2510.01538)
 
 **<u>Haokun Zhao†</u>**, Xiang Zhang†, Jiaqi Wei†, Yiwei Xu, Yuting He, Siqi Sun, Chenyu You
 
