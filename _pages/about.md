@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm Haokun Zhao, a second-year M.S. student at UC San Diego. Previously, I obtained my bachelor’s degree from The Chinese University of Hong Kong, Shenzhen, where I was fortunate to be advised by Prof. [Jicong Fan](https://jicongfan.github.io). During Summer 2025, I was a research intern at Stony Brook University, where I collaborated with Prof. [Chenyu You](https://chenyuyou.me).
 
-My research interests foucus on LLMs and machine learning for health.
+My research interests focus on LLMs and machine learning for health.
 
 **I'm actively looking for 26Fall PhD in US.** Please feel free to reach out to me via email if you believe I am a good fit for your research team. I welcome the opportunity for further discussion! Please see my [CV]() for more details.
 
